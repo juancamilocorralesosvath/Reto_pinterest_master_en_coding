@@ -71,7 +71,7 @@ main{
    
 }
 /* Masonry on large screens */
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1679px) and (min-width: 1024px) {
   .column {
     column-count: 6;
   }
